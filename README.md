@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ledepress.com">
-    <img src="public/logo.png" alt="Lede Press" width="96" />
+    <img src="https://ledepress.com/logo.png" alt="Lede Press" width="96" />
   </a>
 </p>
 
