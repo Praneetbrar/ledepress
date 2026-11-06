@@ -148,17 +148,3 @@ On [ledepress.com/pricing](https://ledepress.com/pricing). Submit from [ledepres
 ### Who do I write about a correction?
 
 [hi@ledepress.com](mailto:hi@ledepress.com). Include the page URL.
-
-## Run the app
-
-Next.js, React, TypeScript, Tailwind, Postgres, Drizzle, Auth.js.
-
-```bash
-npm install
-cp .env.example .env.local
-npm run dev
-```
-
-Set `AUTH_SECRET` and `DATABASE_URL`. Add `EMAIL_FROM` and `AUTOSEND_API_KEY` for magic links. Without an email key, development prints the link in the server log. Google and GitHub buttons need their client id and secret.
-
-The public site is [ledepress.com](https://ledepress.com).
