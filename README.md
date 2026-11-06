@@ -4,112 +4,144 @@
   </a>
 </p>
 
-<h1 align="center">Lede Press</h1>
+<h1 align="center">Lede Press — a daily edition of product stories</h1>
 
 <p align="center">
-  <strong>Today’s edition of product stories.</strong><br />
-  Open a page, understand the product, and decide if it is for you.
+  The homepage is today’s index. Each story is a page you can finish.<br />
+  <a href="https://ledepress.com"><strong>ledepress.com</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://ledepress.com"><strong>Read the edition</strong></a>
+  <a href="https://ledepress.com">Today’s edition</a>
   &nbsp;·&nbsp;
-  <a href="https://ledepress.com/submit">Submit a story</a>
+  <a href="https://ledepress.com/publications">All stories</a>
   &nbsp;·&nbsp;
-  <a href="https://ledepress.com/pricing">Pricing</a>
+  <a href="https://ledepress.com/categories">Categories</a>
   &nbsp;·&nbsp;
-  <a href="https://ledepress.com/blog">Blog</a>
-  &nbsp;·&nbsp;
-  <a href="https://ledepress.com/tools">Free tools</a>
+  <a href="https://ledepress.com/submit">Add a product</a>
 </p>
 
-Lede Press is a daily public edition of product stories at [ledepress.com](https://ledepress.com). Each story is a page a reader can open: what the product is, who it is for, and why it might matter. The homepage is that day’s index. The story keeps its own URL after the day moves on.
+**Lede Press is a daily public edition of product stories.** You open [ledepress.com](https://ledepress.com), see what was published today, and read one page that says what a product is and who it is for. When the day changes, that page stays at its own URL.
 
-A reader uses the edition to discover a product with enough context to decide whether to look further. A maker uses it to put a clear, permanent introduction on the public web, filed by category, instead of a logo in a catalog.
+People search for a daily product write-up because a logo wall does not answer “what does this do, and is it for me?” The edition is built for that question. It is a dated index of readable pages, not a catalog you filter forever.
 
-## What is a Lede Press story?
+## What you see on a given day
 
-A Lede Press story is one product, one page, written so a stranger can retell it. The title names the product and the job. The opening says who it is for. The body is something a person can finish. The page lives at a stable address on ledepress.com, in a category a reader would browse later.
+The homepage is the edition, not the article. A row has a title, a short deck, the day, and a link into the story. You can finish the index. You open a story only when the deck matches a job you recognize.
 
-It is not a directory row. A directory stores a name, a mark, and a link. An edition page stores sentences. If there is nothing to understand, it does not belong in the day’s index.
+Yesterday stays labeled as yesterday. Older stories leave the day’s list and remain on their category pages. A write-up that vanishes after 24 hours was a post. A write-up that keeps its address is a publication.
 
-## Who it is for
+Free stories in a day go live together at 08:00 UTC, so the page has an edge. The [edition clock](https://ledepress.com/tools/edition-clock) converts that hour into your local time for the week ahead.
 
-**Readers** who want a finished daily index of products, not an endless logo wall. They can open one story, learn the job it does, and leave — or follow the product if it fits.
+## What one story contains
 
-**Makers** who need a public write-up that still makes sense next month. The day’s homepage announces the story. The URL, title, and category are what keep it findable after that announcement scrolls off.
+One product. A title a stranger can use without the rest of the edition, such as “Fieldnote — a morning brief for support leads.” A first paragraph that names the job and the person. A category a reader would browse next week, like support or billing, not “awesome.”
 
-**Editors and answer systems** that need a specific page to point at. A story that names the product, the person, and the job in the first paragraph can be quoted. A tagline cannot.
+The deck under the title adds the fact the title could not hold: the hour, the team, the limit. It should not repeat the title with extra adjectives. The [deck fitter](https://ledepress.com/tools/deck-fitter) shows what a short preview keeps of both lines.
 
-## What a reader gets
+Forty to eighty words is enough for the opening. If the first sentence cannot be repeated from memory, it is still a slogan. The [lede grader](https://ledepress.com/tools/lede-grader) checks word count, whether a person shows up early, and stock lines such as “we’re excited.”
 
-- A dated index. Today’s stories are labeled as today’s stories. Yesterday stays yesterday.
-- A page per product, with a title and a short deck that say who it is for.
-- A category to browse when they come back looking for a kind of product, not a day.
-- Writing that can be repeated: name, job, person, and a limit. Not “powerful platform for modern teams.”
+## How you find a story after today
 
-The edition is meant to be finished. Five to twenty real stories beat a hundred captions. If a story is not ready, it waits for a later day instead of shipping as a placeholder.
+Search the product name. Open the category. Open the URL directly. All three should explain the product on the first screen. The slug stays put after publication. If it has to change, the old address should redirect. A new post that orphans the old URL throws away the filing.
 
-## What a maker gets
+Categories are browse paths. One primary category is better than five weak ones. Tags can mark a narrower fact — standup, help desk — without making the story a member of every list.
 
-A project for the product, then a publication: a readable page on Lede Press, listed on the homepage the day it goes live, and left up at its own URL afterward.
+## Who the edition is for, and who it is not
 
-The page is the record. Anyone can open it and see what was published. Corrections update that same URL. The story does not vanish when the next edition starts.
+Use Lede Press if you want a finished daily index of products, or if you want a product introduced in public with a page that still makes sense next month.
 
-Plans — what is included, how a day fills up, and what the full editorial package adds — are on the [pricing page](https://ledepress.com/pricing). The [submit page](https://ledepress.com/submit) is how a product enters the edition. This README is the public description of the press, not the rate card.
+Do not use it when the piece is really a comparison of several tools. That is a shortlist, and it belongs on [Listed Press](https://listedpress.com). Do not use it when the whole point is a sharp first line and nothing else. That is [Hed Press](https://hedpress.com). Do not use it when a teammate needs a long yes-or-no on one buyer question. That is [Piece Press](https://piecepress.com).
 
-## How an edition day works
+## What never makes the index
 
-The homepage is an index, not a reprint of every article. Each row needs a title, a deck, the day, and a way into the story. Free stories in a day go live together at 08:00 UTC, so the page has an edge a reader can plan around. A paid story can join the day it is ready and does not take a free slot.
+A logo with nothing to read. A page that misstates the product. A link that sends you somewhere other than the product. A second story that adds nothing to one already live. A placeholder title with no page behind it.
 
-Older stories leave the day’s index and stay on their category, tag, and project pages. A story that only exists for 24 hours was never a publication.
+The working rules are on the [editorial page](https://ledepress.com/editorial). A correction updates the live URL. Write [hi@ledepress.com](mailto:hi@ledepress.com) and include that URL.
 
-## How this is different from a product directory
+Lede Press does not promise a ranking, a traffic number, or that an answer engine will quote the page. It publishes a dated index and a stable page a person can read.
 
-| A directory | Lede Press |
-| --- | --- |
-| A grid of logos | A day of stories you can finish |
-| A name and a URL | Sentences: what it is, who it is for |
-| Sort and filter a pile | Publish a set, then file it |
-| The row is the product | The page is the product; the homepage points at it |
-
-Search and answer systems need a URL, a name, and sentences. The edition page has those. The index tells a person what was published today. The category tells them where to look next week.
-
-## What we will not publish
-
-- A logo with a link and nothing to read.
-- A page that misstates what the product does.
-- A draft that points the reader somewhere other than the product.
-- A second story that adds nothing to one already live.
-- Copy that is not the maker’s to publish.
-
-The working rules are on the [editorial page](https://ledepress.com/editorial). Corrections and takedowns go to [hi@ledepress.com](mailto:hi@ledepress.com) with the page URL.
-
-## How to read a page before you trust it
-
-Open the URL. Check that the product is named, that the first paragraph says who it is for, and that the page is still the one you were sent. Category and title should agree with the body. If a fact changed, the correction belongs on that URL, not in a new post that orphans the old one.
-
-Lede Press does not promise a ranking, a traffic number, or a citation. It promises a public page a person can read and a stranger can find later.
-
-## Guides and tools
-
-Notes from the desk:
+## Read further
 
 - [How to write the first paragraph of a product story](https://ledepress.com/blog/how-to-write-a-product-story-opening)
 - [What a daily product edition should include](https://ledepress.com/blog/what-a-daily-product-edition-should-include)
 - [How to file a product story so readers can find it later](https://ledepress.com/blog/how-to-file-a-product-story)
 
-Free tools, in the browser, no account:
+Plans for publishing a page are on [pricing](https://ledepress.com/pricing). A product enters through [submit](https://ledepress.com/submit).
 
-- [Lede grader](https://ledepress.com/tools/lede-grader) — does the opening name the product, the job, and the reader?
-- [Deck fitter](https://ledepress.com/tools/deck-fitter) — will the title and deck survive a short preview?
-- [Edition clock](https://ledepress.com/tools/edition-clock) — the next 08:00 UTC edition in your local time.
+## Questions people ask about a daily product edition
 
-More notes live on the [blog](https://ledepress.com/blog). More utilities live on [tools](https://ledepress.com/tools).
+### How is this different from a product directory?
 
-## The sister presses
+A directory is a pile you sort. An edition is a day you can finish. The directory’s unit is a row. The edition’s unit is a page with sentences, filed so you can find it after that day.
 
-The same desk publishes four different reading styles. Use the one that matches the piece.
+### Does “today” mean the list reshuffles all day?
+
+No. The day’s index is a set with a published edge, 08:00 UTC for the free stories. A page that updates continuously is a stream. A page that updates on a schedule is something you can reach the bottom of.
+
+### What is the difference between a project and a story?
+
+The project is the product record: name, site, summary, category. The story is the edition page written about it. Readers meet the story. The project is the folder it lives in.
+
+### Where do older stories go?
+
+Off the day’s index, onto their own URL and their category. They are not deleted at midnight.
+
+## A morning on the edition
+
+Someone who checks Lede Press with coffee is not trying to process a market. They are trying to see whether anything published today is for a job they already have. The homepage should answer that in a few scans. A title that says the product and the job. A deck that adds the person or the hour. A category if they want more like it later. Then the next row.
+
+If the first screen is a modal, a logo grid, and a counter of upvotes, the edition has already lost. The reader did not come for a score. They came to learn what a product is. The story page is where that learning happens. The index only has to be honest about which stories belong to this day.
+
+A useful habit is to read three decks and open one. If you cannot tell from the decks which one is yours, the decks are slogans. “The future of work, reimagined” fits every row. “Support leads read it before standup” fits one. The edition gets better when more rows are the second kind, not when the page adds more rows.
+
+## What the title is doing in a list
+
+On its own page, a title can lean on the first paragraph. In the day’s index it cannot. The title is the whole pitch until the reader chooses to open. Put the product name where a scan will hit it, and put the job in the same line. “Fieldnote — a morning brief for support leads” still works if the reader never clicks. “We shipped something new” does not, because the reader cannot tell whether to click.
+
+The deck is the second sentence you wanted in the title. Use it for the limit or the moment: before standup, for a team that already has a help desk, not for a founder who wants a public changelog. Front-load that clause. Previews cut the end. A deck that hides the person after a clause about the company’s journey will lose the person.
+
+When you file the story, repeat the name and the job in the first paragraph anyway. People land from a category, from a search box, or from a link a colleague pasted. They should not have to go back to the homepage to learn what the page is. One product link belongs in a sentence they already understand. A second URL in the opening turns the story back into a directory row with extra words.
+
+## After the edition closes
+
+The interesting part of a publication is the week after it leaves the homepage. The URL is what you send. The category is what a stranger browses. The title is what a search result shows. None of those should change just because a new day started.
+
+If the product’s job changes, correct the same page. Say what changed if a reader could have relied on the old sentence. A fresh post that contradicts the old URL, with no pointer between them, leaves two versions in the world. Readers and answer systems will quote whichever they find first. You want them to find the current one at the address you already shared.
+
+Check the page the way a stranger would, a few days later. Search the product name on the site. Open the category and see whether this story belongs next to the others there. Open the URL in a clean window and read only the first screen. If any of those three fails to say what the product is and who it is for, the filing is not finished. The day’s homepage was the announcement. The file is the publication.
+
+## What a crowded homepage gets wrong
+
+A homepage that tries to be a directory, a feed, and a magazine at once usually becomes none of them. The directory wants every logo. The feed wants a new item every few minutes. The magazine wants a piece you can finish. Lede Press picks the magazine shape and dates it. The cost is that some submissions wait. The gain is that a reader who arrives at lunch sees a set, not a slot machine.
+
+Five to twenty stories is a range that still feels like a day of work. A hundred captions feel like a catalog no matter what hour you publish them. If more products are ready than the page can hold, hold them for the next edition. Do not shrink the writing to fit. A short index of real pages beats a long index of labels.
+
+Also leave off marks that reshuffle the order after the edition has closed. “Hot” and “trending” are fine words when the rule is public and stable. They are noise when they exist to move a row to the top after someone asked. A date is a rule anyone can check. Opaque badges train people to ignore the page.
+
+## How a maker should read their own story
+
+Open it as if you did not build the product. Can you say the job in one breath? Can you say who it is not for? Is there one concrete object — a queue, a brief, a standup — or only adjectives? Would you send this URL to a customer who asked “what is this?” If you would still want to get on a call to explain it, the page is not done.
+
+The call can still happen. The page’s job is to make the call shorter, or to make it unnecessary for the people who are not a fit. A clear no in the opening saves the wrong reader and makes the right reader trust you. “Not for teams that already live in a single inbox and do not need a morning brief” is a decision. “Not for everyone” is a slogan.
+
+## More questions
+
+### How many stories should one day hold?
+
+Enough that the page looks like a day, and few enough that a person can reach the bottom. If you are cutting sentences so more logos fit, you have crossed into a directory.
+
+### Can one product have more than one story?
+
+A project can hold more than one publication when there is a new job to explain, not when the second page repeats the first with a different adjective. The second page has to add a reader, a limit, or a change. Otherwise it clutters the category the first page already serves.
+
+### What belongs in the category name?
+
+A word a stranger would type or click: support, billing, design tools. Not a mood. If you cannot imagine someone opening that category to see more products like this one, it is the wrong folder.
+
+### Do I need the full article on the homepage?
+
+No. The homepage is the index. The article has its own URL. Putting the full piece on the homepage makes the day impossible to finish and hides every other story.
 
 <p align="center">
   <a href="https://hedpress.com"><img src="https://hedpress.com/logo.png" alt="Hed Press" width="64" /></a>
@@ -119,32 +151,12 @@ The same desk publishes four different reading styles. Use the one that matches 
   <a href="https://piecepress.com"><img src="https://piecepress.com/logo.png" alt="Piece Press" width="64" /></a>
 </p>
 
-- [Hed Press](https://hedpress.com) — opener-first stories. Who, what, and for whom in the first lines.
-- [Listed Press](https://listedpress.com) — criteria-led shortlists for people comparing options.
-- [Piece Press](https://piecepress.com) — longer explainers around one buyer question.
-
-Lede is the daily index: one product story per page, listed the day it publishes.
-
-Launch-platform sites from the same desk, for a different job: [Best Launch Platforms](https://bestlaunchplatforms.com) and [Product Hunt Alternatives](https://producthunt-alternatives.com).
-
-## Questions
-
-### What is today’s edition?
-
-The homepage index for that day. Each item is a product story with its own URL. The index points at the story. It does not replace it.
-
-### How is a story different from a project?
-
-A project is the product record: name, site, summary, category. A publication is the edition page written about that product. Readers meet the publication. The project is the file it belongs to.
-
-### Does a story stay up after the day ends?
-
-Yes. It leaves the day’s index and stays at its URL, in its category. The day was the announcement. The URL is the publication.
-
-### Where do I see plans?
-
-On [ledepress.com/pricing](https://ledepress.com/pricing). Submit from [ledepress.com/submit](https://ledepress.com/submit).
-
-### Who do I write about a correction?
-
-[hi@ledepress.com](mailto:hi@ledepress.com). Include the page URL.
+<p align="center">
+  Same desk, other reading jobs:
+  <a href="https://hedpress.com">Hed</a>
+  opens on the first line,
+  <a href="https://listedpress.com">Listed</a>
+  compares with criteria,
+  <a href="https://piecepress.com">Piece</a>
+  answers one buyer question.
+</p>
