@@ -1,4 +1,27 @@
-# Lede Press
+<p align="center">
+  <a href="https://ledepress.com">
+    <img src="public/logo.png" alt="Lede Press" width="96" />
+  </a>
+</p>
+
+<h1 align="center">Lede Press</h1>
+
+<p align="center">
+  <strong>Today’s edition of product stories.</strong><br />
+  Open a page, understand the product, and decide if it is for you.
+</p>
+
+<p align="center">
+  <a href="https://ledepress.com"><strong>Read the edition</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://ledepress.com/submit">Submit a story</a>
+  &nbsp;·&nbsp;
+  <a href="https://ledepress.com/pricing">Pricing</a>
+  &nbsp;·&nbsp;
+  <a href="https://ledepress.com/blog">Blog</a>
+  &nbsp;·&nbsp;
+  <a href="https://ledepress.com/tools">Free tools</a>
+</p>
 
 Lede Press is a daily public edition of product stories at [ledepress.com](https://ledepress.com). Each story is a page a reader can open: what the product is, who it is for, and why it might matter. The homepage is that day’s index. The story keeps its own URL after the day moves on.
 
@@ -87,6 +110,14 @@ More notes live on the [blog](https://ledepress.com/blog). More utilities live o
 ## The sister presses
 
 The same desk publishes four different reading styles. Use the one that matches the piece.
+
+<p align="center">
+  <a href="https://hedpress.com"><img src="https://hedpress.com/logo.png" alt="Hed Press" width="64" /></a>
+  &nbsp;&nbsp;
+  <a href="https://listedpress.com"><img src="https://listedpress.com/logo.png" alt="Listed Press" width="64" /></a>
+  &nbsp;&nbsp;
+  <a href="https://piecepress.com"><img src="https://piecepress.com/logo.png" alt="Piece Press" width="64" /></a>
+</p>
 
 - [Hed Press](https://hedpress.com) — opener-first stories. Who, what, and for whom in the first lines.
 - [Listed Press](https://listedpress.com) — criteria-led shortlists for people comparing options.
